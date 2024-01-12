@@ -69,8 +69,6 @@ const Details = () => {
 
     return (
         <div className="container mt-3">
-            <h1 style={{ fontWeight: 400 }}>Welcome Harsh Pathak</h1>
-
             <Card sx={{ maxWidth: 600 }}>
                 <CardContent>
                     <div className="add_btn">
